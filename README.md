@@ -8,9 +8,9 @@ This [Anki](https://apps.ankiweb.net/) card template allows making selected cloz
 - In case the cloze syle field is empty or has the wrong number of character, it is ignored and all clozes are displayed as normal.
 
 ### Installation
-- Download and import the StyledClozes.apkg collection into your Anki installation.
+- Download and import the CustomClozes.apkg collection into your Anki installation.
 - The imported folder which contains half a dozen sample cards can then be deleted. However, it might be a good idea to study them first to understand how the template works.
-- The "StyledClozes" card type will be available when creating new cards.
+- The "CustomClozes" card type will be available when creating new cards.
 
 ### Restrictions and further possibilities
 - This template doesn't currently work for notes with multiple cards (`c1`, `c2` etc.). This would be the next feature to implement.
