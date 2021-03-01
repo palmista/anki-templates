@@ -27,7 +27,11 @@ This [Anki](https://apps.ankiweb.net/) card template allows making selected cloz
 ![mitbringen](https://user-images.githubusercontent.com/65987125/107578618-43e1dd00-6bf4-11eb-8127-d857a6879223.jpg) and
 ![aussehen](https://user-images.githubusercontent.com/65987125/107578636-480dfa80-6bf4-11eb-8d84-5aa3db3e8b3f.jpg)
 
-3. **Changing clause structure when connecting clauses:** This can be used for reported speech, but really for every subordinate clause that changes the word order or some of the words. A Welsh example:
+3. **"Find the mistake" cards:** The mistake in a sentence can be hidden and revealed using an invisible cloze:
+
+![cywira](https://user-images.githubusercontent.com/65987125/109553090-e0501e80-7ad2-11eb-9571-d82b51c680a6.jpg)
+
+4. **Changing clause structure when connecting clauses:** This can be used for reported speech, but really for every subordinate clause that changes the word order or some of the words. A Welsh example:
 
 ![meddai_hi](https://user-images.githubusercontent.com/65987125/107578176-b1413e00-6bf3-11eb-8d29-8705746949b6.jpg) 
 
@@ -35,6 +39,6 @@ and one in German:
 
 ![mitsingen](https://user-images.githubusercontent.com/65987125/107578207-be5e2d00-6bf3-11eb-9eec-c602d21a32e5.jpg)
 
-4. **Ablauts and other stem changes:** I haven't yet found an example for this that is actually useful, but in theory, you can do things like this:
+5. **Ablauts and other stem changes:** I haven't yet found an example for this that is actually useful, but in theory, you can do things like this:
 
 ![gesungen](https://user-images.githubusercontent.com/65987125/107578920-ad61eb80-6bf4-11eb-8ff4-480bfd77d285.jpg)
